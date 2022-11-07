@@ -23,11 +23,11 @@ html, body{
 
 aside {
     text-align: center;
-    font-size: 1em;
+    font-size: 1.5em;
     padding: 1em;
-    line-height: 1em;
+    line-height: 1.5em;
     background-color: Lavender;
-    border-radius: 3%;
+    border-radius: 5%;
     border: 1px solid black;
    
     
