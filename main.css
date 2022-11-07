@@ -30,10 +30,6 @@
         border-radius: 10px;
         border: 1px solid black;
         margin: 1em;
-      
-       
-        
-        
     }
     
     main {
@@ -41,11 +37,6 @@
         font-size: 1em;
         border-radius: 10px;
         margin: 5px;
-    }
-    
-    table {
-        
-        
     }
     
     header {
@@ -61,8 +52,7 @@
     }
     
     .div-button{
-        text-align: center;
-        
+        text-align: center;   
     }
     
     .button{
@@ -77,15 +67,13 @@
     footer{
         text-align: center;
         color: white;
-        background-color: black;
-        
+        background-color: black;    
     }
     
     .job{
         text-align: left;
         padding-left: 1em;
     }
-    
     
     
     td{
@@ -99,9 +87,7 @@
     .data {
         text-align: center;
         font-size: 1.5em;
-        font-weight: 700;
-        
-        
+        font-weight: 700;    
     }
     
     h3{
