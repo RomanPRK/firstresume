@@ -27,8 +27,9 @@ aside {
     padding: 1em;
     line-height: 2.5em;
     background-color: Lavender;
-    border-radius: 5px;
+    border-radius: 10px;
     border: 1px solid black;
+    margin: 5px;
    
     
     
@@ -36,8 +37,9 @@ aside {
 
 main {
     text-align: center;
-    font-size: 1em;
+    font-size: 1.5em;
     border-radius: 10px;
+    margin: 5px;
 }
 
 table {
