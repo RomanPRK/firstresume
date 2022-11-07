@@ -1,0 +1,107 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+
+
+html, body{
+    height: 100%;
+}
+
+.wrapper{
+    min-height: 100%;
+    display:flex;
+    flex-direction: column;
+}
+
+.main-info{
+    display:flex;
+    flex: 1 1 auto;
+    align-items: center;
+    flex-direction: column;
+}
+
+aside {
+    text-align: center;
+    font-size: 2em;
+    max-width: 70%;
+    padding: 1.5em;
+    line-height: 1.5em;
+    background-color: Lavender;
+    border-radius: 10px;
+    margin: 15px 0;
+    border: 1px solid black;
+   
+    
+    
+}
+
+main {
+    text-align: center;
+    font-size: 1.5em;
+    max-width: 90%;
+    border-radius: 10px;
+}
+
+table {
+    
+    
+}
+
+header {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 700;
+    color: white;
+    background-color: black;
+}
+
+.hidden{
+    display: none;
+}
+
+.div-button{
+    text-align: center;
+    
+}
+
+.button{
+    border: 3px solid red;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: LightCoral;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    
+}
+
+.job{
+    text-align: left;
+    padding-left: 2em;
+}
+
+
+
+td{
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 7px;
+    padding: 8px;
+    background-color: lavender;
+}
+
+.data {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 700;
+    
+}
+
+h3{
+    line-height: 2.0em;
+}
