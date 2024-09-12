@@ -8,8 +8,8 @@ button.addEventListener("click", function()
     let b = document.querySelector('main');
     b.classList.toggle('hidden');
     
-    if(b.classList.contains('hidden')){button.innerHTML = "Показать опыт работы";} 
-    else {button.innerHTML = "Показать дополнительную информацию";}
+    if(b.classList.contains('hidden')){button.innerHTML = "<= Return ";} 
+    else {button.innerHTML = "More info =>";}
     }
 )
 
